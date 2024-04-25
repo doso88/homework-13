@@ -46,3 +46,13 @@ let length = 7
 let width = 5
 let area = length*width
 console.log(area)
+
+/*fifth*/
+let car = {
+    type:"BMW",
+    model:"E 350",
+    color:"white",
+    Realease_date:"2003",
+    price:"2500 $"
+}
+console.log (`Sellin ${car.color} ${car.type} ${car.model} for ${car.price}, car was realeased in ${car.Realease_date}`)
