@@ -33,6 +33,14 @@ let I = 25
 let divide = U/I
 console.log(divide)
 
+let Z = 7
+let X = 63
+let C = 25
+let B = X/Z*C
+let left = "packages left in stock"
+console.log(`there is ${B} ${left}`)
+
+
 /*fourth*/
 let length = 7
 let width = 5
